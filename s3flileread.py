@@ -7,7 +7,7 @@ Contributor: Chirag Rathod (Srce Cde)
 ========================
 input "give your bucket name in bucket-name filed
 
-configure lambda trigger to all s3 object put request for a sepcified bucket
+configure lambda trigger to all s3 object created request for a sepcified bucket
 
 """
 import boto3
