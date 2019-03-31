@@ -23,3 +23,4 @@ def lambda_handler(event, context):
         file_content = fileObj["Body"].read().decode('utf-8')
         print(file_content)
 	#return 'Thanks'
+## end of function
