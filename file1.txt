@@ -1,2 +1,2 @@
 file-1 
-test polling exluded test
+test build
