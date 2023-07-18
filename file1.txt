@@ -1,2 +1,2 @@
 file-1 
-test polling ..
+test polling exluded
